@@ -1,0 +1,10 @@
+edu\egg\example\ExampleSpringBootApplication.class
+edu\egg\example\service\UsuarioService.class
+edu\egg\example\entity\Usuario.class
+edu\egg\example\repository\MascotaRepository.class
+edu\egg\example\repository\UsuarioRepository.class
+edu\egg\example\entity\Mascota.class
+edu\egg\example\controller\PrincipalController.class
+edu\egg\example\controller\UsuarioController.class
+edu\egg\example\controller\MascotaController.class
+edu\egg\example\service\MascotaService.class
