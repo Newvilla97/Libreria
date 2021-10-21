@@ -1,0 +1,30 @@
+.header {
+  background-color: #212529;
+  text-align: center;
+  color: white;
+}
+.botones {
+  margin: 20px;
+}
+body {
+  background-color: aliceblue;
+}
+
+.table {
+  background-color: aliceblue;
+  margin-top: 5px;
+}
+.form-crear {
+  max-width: 500px;
+  padding: 50px;
+  border: 5px solid rgb(247, 223, 13);
+  border-style: inset;
+  border-radius: 40px;
+}
+.form-editar {
+  max-width: 500px;
+  padding: 50px;
+  border: 5px solid rgb(28, 170, 9);
+  border-style: inset;
+  border-radius: 40px;
+}
